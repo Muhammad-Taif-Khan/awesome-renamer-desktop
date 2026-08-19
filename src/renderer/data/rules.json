@@ -1,0 +1,44 @@
+[
+    {
+        "type": "uppercase",
+        "name": "Uppercase",
+        "description": "Convert the filename to uppercase, Example: Report.pdf -> REPORT.pdf"
+    },
+    {
+        "type": "lowercase",
+        "name": "Lowercase",
+        "description": "Convert the filename to lowercase. Example: Report.pdf -> report.pdf"
+    },
+    {
+        "type": "titlecase",
+        "name": "Title Case",
+        "description": "Convert the filename to Title Case. Example: hello world.txt -> Hello World.txt"
+    },
+    {
+        "type": "capitalize",
+        "name": "Capitalize",
+        "description": "Convert the filename to Title Case. Example: report.docx -> Report.docx"
+    },
+     {
+        "type": "affixes",
+        "name": "affixes",
+        "inputs":[{"type": "text", "name":"prefix"}, {"type": "text", "name": "suffix"}],
+        "description": "Add prefix and suffix to the filename e.g: PREFIX_data_SUFFIX.txt"
+    },
+    {
+        "type": "replace",
+        "name": "Replace",
+        "inputs":[{"type": "text", "name":"search"}, {"type": "text", "name": "replace"}],
+        "description": "Search a text in the filename and let it replaced with the replace input."
+    },
+    {
+        "type": "windowsStyle",
+        "name": "Windows Style",
+        "inputs":[{
+            "type":"checkbox",
+            "name":"windowsStyle"
+        }],
+        "description": "Rename files exactly like Windows Explorer. Uses Windows Explorer-style duplicate naming (file (2).txt, file (3).txt, ...). Avoids filename collisions within the same directory."
+    }
+   
+]
