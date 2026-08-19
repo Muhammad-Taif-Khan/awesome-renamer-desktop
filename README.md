@@ -4,7 +4,7 @@
   <img src="src/renderer/assets/icon-png.png" width="128" alt="Awesome Renamer Desktop icon">
 </p>
 
-<p align="center">A Windows desktop application for previewing and batch-renaming files with filters and configurable rename rules.</p>
+<p align="center">A Free & Open Source Windows desktop application for previewing and batch-renaming files with filters and configurable rename rules.</p>
 
 > **Visual tour:** the screenshots below show the current v1 interface. A short demo GIF would be a useful future addition.
 
