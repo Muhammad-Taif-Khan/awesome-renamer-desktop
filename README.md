@@ -91,7 +91,9 @@ holiday_img_003.jpg
 
 ## Installation and download
 
-This repository contains packaging configuration for a Windows installer, but it does not contain a verified public release-download link. Until a release is published, run or package the application from source.
+Download the Windows installer from the [v1.0.0 release](https://github.com/Muhammad-Taif-Khan/awesome-renamer-desktop/releases/tag/v1.0.0). After downloading, run the installer and follow its prompts.
+
+To run the application from source or create a new package, use the development instructions below.
 
 ### Run from source
 
