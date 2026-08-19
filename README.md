@@ -91,7 +91,7 @@ holiday_img_003.jpg
 
 ## Installation and download
 
-Download the Windows installer from the [v1.0.0 release](https://github.com/Muhammad-Taif-Khan/awesome-renamer-desktop/releases/tag/v1.0.0). After downloading, run the installer and follow its prompts.
+Download the Windows installer from the [v1.0.0 release](https://github.com/Muhammad-Taif-Khan/awesome-renamer-desktop/releases/tag/v1.0.0) or by clicking [download awesome-renamer-desktop](https://github.com/Muhammad-Taif-Khan/awesome-renamer-desktop/releases/download/v1.0.0/awesome-renamer-desktop-1.0.0-setup.zip). After downloading, run the installer and follow its prompts. 
 
 To run the application from source or create a new package, use the development instructions below.
 
