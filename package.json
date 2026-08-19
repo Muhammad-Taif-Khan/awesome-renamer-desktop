@@ -1,6 +1,6 @@
 {
   "name": "awesome-renamer-desktop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "A desktop app for quickly previewing and batch-renaming files with flexible rules and filters.",
   "main": "./out/main/index.js",
